@@ -1,0 +1,241 @@
+@charset "utf-8";
+header {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: auto;
+	padding-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+nav {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 100%;
+	margin: 0px auto 0px auto;
+	padding: 15px 10px 0px 0px;
+	height: 45px;
+	background-color: #01162B;
+}
+nav ul {
+	float: right;
+	color: #FFF9F9;
+	display: block;
+}
+
+nav li {
+	width: auto;
+	display: inline-block;
+	list-style-type: none;
+	text-align: left;
+}
+ul li {
+}
+
+nav a {
+	color: #FFF;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+	font-size: large;
+	padding-right: 40px;
+}
+
+
+footer {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 100%;
+	text-align: center;
+	background-color: #01162B;
+	color: #FFF;
+	height: 25px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: auto;
+	padding-right: auto;
+	font-size: small;
+	float: right;
+}
+#page-content {
+	min-height: 800px;
+}
+#page-content img {
+	float: right;
+}
+
+
+
+body {
+	background-color: #01162B;
+}
+
+header img {
+	width: 100%;
+	height: 100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#head img {
+	padding-top: 25px;
+	background-color: #FFF;
+
+
+}
+
+
+#head {
+	text-align: center;
+	color: #070D05;
+	margin-top: 10px;
+	background-color: #FFF;
+	padding-bottom: 10px;
+	width: 100%;
+}
+div {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #FFF;
+}
+section {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #FFF;
+}
+#intro {
+	height: 375px;
+	width: 75%;
+	float: none;
+	left: auto;
+	right: auto;
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#intro p {
+	padding-left: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	width: 45%;
+	float: none;
+	text-align: center;
+}
+#intro h2 {
+	font-size: large;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	text-align: center;
+	width: 45%;
+}
+#intro img {
+	padding-right: 0px;
+	margin-right: 7%;
+	padding-left: 0px;
+	margin-left: 0px;
+	float: right;
+}
+
+#intro h1 {
+	padding-left: 0%;
+	width: 45%;
+	text-align: center;
+	padding-top: 5%;
+}
+section {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #FFF;
+}
+footer {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 100%;
+}
+#matchday {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 8px solid #01162B;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 550px;
+}
+#main-copy {
+	width: 50%;
+	min-height: 200px;
+	margin-right: 0px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+#main-copy img {
+	width: 100%;
+}
+#sidebar a {
+	font-size: large;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #65A81A;
+	color: #FFF;
+	border-width: thick;
+	border-color: #282B22;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#sidebar p a:hover {
+	color: #0A1E5D;
+	text-decoration: underline;
+}
+a:hover {
+	color: #82AFDA;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+#sidebar {
+	width: 38%;
+	padding-top: 75px;
+	min-height: 200px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	display: inline-block;
+	float: right;
+	text-align: left;
+}
+#guide ul li {
+	display: inline;
+}
+#guide a {
+	font-size: large;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #65A81A;
+	color: #FFF;
+	border-width: thick;
+	border-color: #282B22;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#guide {
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	text-align: center;
+}
+#guide p a:hover {
+	color: #0A1E5D;
+	text-decoration: underline;
+}
+#guide img {
+	float: none;
+}
